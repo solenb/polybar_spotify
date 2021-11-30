@@ -1,4 +1,4 @@
-#Module Polybar Spotify
+# Module Polybar Spotify
 This scprit is used to toggle the playing icon of Spotify in polybar
 
 
